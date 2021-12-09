@@ -619,17 +619,23 @@ footer .footer-contenedor img{
   .home .max-width {
     margin-left: 0px;
   }
+  
 }
 @media (max-width: 1104px) {
   .about .about-content .left img {
     height: 350px;
     width: 350px;
   }
+  
+
 }
 @media (max-width: 947px) {
   .max-width {
     padding: 0 50px;
   }
+  
+   
+
 }
 @media (max-width: 991px) {
   .menu-btn {
@@ -733,6 +739,9 @@ footer .footer-contenedor img{
   .max-width {
     padding: 0 23px;
   }
+ 
+   
+
 
   .home {
     background-size: 100%;
@@ -754,7 +763,7 @@ footer .footer-contenedor img{
   .services .serv-content .card,
 .teams .cert-content .card,
 .skills .skills-content .column {
-    width: 100%;
+    width: 100%;s
   }
 }
 @media (max-width: 500px) {
@@ -762,6 +771,9 @@ footer .footer-contenedor img{
     background-size: 100%;
     background-size: cover;
   }
+ 
+   
+
 
   .home .home-content .text-2 {
     font-size: 60px;
@@ -777,7 +789,7 @@ footer .footer-contenedor img{
 
 .carousel-inner img{
     width: 1200px;
-    height: 600px;
+ 
 }
 
 .carousel-item h5{
